@@ -117,11 +117,18 @@ h6,
     transition: .5s;
 }
 
+#text_top{
+    margin-top: 8rem;
+}
+
 @media (max-width: 991.98px) {
     .navbar .navbar-nav {
         margin-top: 10px;
         border-top: 1px solid rgba(255, 255, 255, .3);
         background: var(--dark);
+    }
+    #text_top{
+        margin-top: 5rem;
     }
 
     .navbar .navbar-nav .nav-link {
