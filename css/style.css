@@ -117,7 +117,11 @@ h6,
     transition: .5s;
 }
 
-#text_top{
+#text_top1{
+    margin-top: 8rem;
+}
+
+#text_top2{
     margin-top: 8rem;
 }
 
@@ -127,7 +131,11 @@ h6,
         border-top: 1px solid rgba(255, 255, 255, .3);
         background: var(--dark);
     }
-    #text_top{
+    #text_top1{
+        margin-top: 5rem;
+    }
+
+    #text_top2{
         margin-top: 5rem;
     }
 
