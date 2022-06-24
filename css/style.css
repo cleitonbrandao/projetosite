@@ -166,7 +166,9 @@ h6,
 @media (max-width: 425px) {
     .fs-5 fw-bold mb-0 {
         font-size: x-small;
-        
+    }
+    .fs-1 fw-bold mb-0{
+        font-size: small;
     }
 }
 
