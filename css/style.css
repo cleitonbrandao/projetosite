@@ -163,11 +163,14 @@ h6,
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 426px) {
     .fs-5 fw-bold mb-0 {
         font-size: x-small;
     }
     .fs-1 fw-bold mb-0{
+        font-size: x-small;
+    }
+    .fa fa-phone-alt fa-4x flex-shrink-0{
         font-size: small;
     }
 }
