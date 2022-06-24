@@ -170,8 +170,8 @@ h6,
     .fs-1 fw-bold mb-0{
         font-size: xx-small;
     }
-    .fa fa-phone-alt fa-4x flex-shrink-0{
-        font-size: 2rem !important;
+    .fa-4x {
+        font-size: 2rem ;
         
     }
 }
